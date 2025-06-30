@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
     class ReprodutorMusical {
         +void tocar()
@@ -36,3 +37,4 @@ classDiagram
     iphone --> ReprodutorMusical
     iphone --> AparelhoTelefonico
     iphone --> NavegadorInternet
+```
